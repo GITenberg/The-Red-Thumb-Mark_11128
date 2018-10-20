@@ -411,7 +411,7 @@ locked up in the safe."
 "Who placed them in the safe?" asked Thorndyke.
 
 "Mr. Hornby himself, to whom Mr. Reuben delivered up the package on his
-return from the docks."  
+return from the docks."
 
 "Yes," said Thorndyke, "and what happened next?"
 
@@ -532,7 +532,7 @@ with an inking pad."
 have one, which I bought at Charing Cross Station."
 
 "Well, it seems that some months ago Mrs. Hornby, the wife of John
-Hornby, purchased one of these toys--"  
+Hornby, purchased one of these toys--"
 
 "As a matter of fact," interrupted Reuben, "it was my cousin Walter who
 bought the thing and gave it to her."
@@ -765,7 +765,7 @@ may have taken the diamonds or he may not. I have no means of judging
 until I have sifted the evidence and acquired a few more facts. This I
 hope to do in the course of the next day or two, and I suggest that we
 postpone the consideration of our plan of campaign until I have seen
-what line of defence it is possible to adopt."  
+what line of defence it is possible to adopt."
 
 "As you will," replied the lawyer, taking up his hat, "but I am afraid
 you are encouraging the young rogue to entertain hopes that will only
@@ -898,7 +898,7 @@ finger-print is merely a fact--a very important and significant one, I
 admit--but still a fact, which, like any other fact, requires to be
 weighed and measured with reference to its evidential value."
 
-"And what do you propose to do first?"  
+"And what do you propose to do first?"
 
 "I shall first satisfy myself that the suspected thumb-print is
 identical in character with that of Reuben Hornby--of which, however,
@@ -4195,7 +4195,7 @@ replying, but, at length, he turned towards the open door and gruffly
 invited us to enter.
 
 A paraffin lamp was on the floor in a recess of the hall, and this our
-conductor took up when he had elosed the street door.
+conductor took up when he had closed the street door.
 
 "This is the room," he said, turning the key and thrusting the door
 open; "the library they call it, but it's the front parlour in plain
@@ -4292,7 +4292,7 @@ house and, seeing the light, come in to make inquiries."
 
 "And then?"
 
-"Then I should have had to hand over the object to him."  
+"Then I should have had to hand over the object to him."
 
 "And why not? Is the object a specially interesting one?"
 
@@ -5996,7 +5996,7 @@ way responsible for the delay."
 
 "You are not here to defend the prisoner," said Sir Hector. "Answer my
 questions and make no comments, if you please. Was anyone present when
-you placed the diamonds in the safe?"  
+you placed the diamonds in the safe?"
 
 "No one was present but myself."
 
@@ -6460,7 +6460,7 @@ handed to him by the usher); "have you ever seen it before?"
 March."
 
 "There is a mark upon it--the print of a finger or thumb. Can you tell
-us anything about that mark?"  
+us anything about that mark?"
 
 "It is the print of the left thumb of Reuben Hornby, the prisoner at
 the bar."
@@ -7710,7 +7710,7 @@ in contact with the thumb at exactly the same spot. But such a
 supposition would be more opposed to probabilities even than the
 supposition that two exactly similar thumb-prints should have been made
 by different persons. And then there is the further fact that the paper
-found in the safe had no loose fibre to account for the mark."  
+found in the safe had no loose fibre to account for the mark."
 
 "What is your explanation of the presence of defibrinated blood in the
 safe?"
